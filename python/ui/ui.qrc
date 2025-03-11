@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="1">
+    <file>文件夹.png</file>
+    <file>摄像头.png</file>
+    <file>视频.png</file>
+    <file>首页.png</file>
+    <file>摄像头.png</file>
+    <file>视频.png</file>
+    <file>图像.png</file>
+  </qresource>
+</RCC>
